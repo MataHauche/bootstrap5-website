@@ -25,3 +25,7 @@ Para trabajar con los archivos iniciales te recomiendo la extensión de [Live Se
 [![Primer sitio con Bootstrap](resources/video-portada.jpg)](https://www.youtube.com/watch?v=ZuOL_DoaG9k)
 
 Los invito a ver el tutorial sobre cómo [crear un sitio web con Bootstrap 5](https://www.youtube.com/watch?v=ZuOL_DoaG9k) en el canal de Youtube.
+----------------------------------------------------------------------------------------------------------------------------------------
+NOTAS DE HERNÁN HAUCHÉ 19/3/2022
+Turorial finalizado.
+Integre el ejercicio con el aprendizaje de Git, GitHub, VScode.
